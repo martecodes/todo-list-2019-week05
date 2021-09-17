@@ -1,3 +1,5 @@
+<h1> Todo List</h1>
+
 I created an app that takes in an input 
 the input value is then submitted to the DOM with a created li
 I have a functon that onclick it add a class to the li
