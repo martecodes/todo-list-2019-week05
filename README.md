@@ -12,5 +12,4 @@ Using click event. I created a function that takes in the input value and then c
 
 <h2> Lesson Learned</h2>
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or fuck yeah I did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
+No matter what your experience level, being an engineer means continuously learning.
